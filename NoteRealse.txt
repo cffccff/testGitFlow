@@ -1,0 +1,3 @@
+- chứa file commit_squash
+- rebase
+- singlecommit
